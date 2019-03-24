@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552734058 source:c:\users\admin\desktop\identifire\asdf\lab.cpp
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

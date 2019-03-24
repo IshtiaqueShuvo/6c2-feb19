@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552729855 source:c:\users\admin\desktop\identifire\lab cc\lab class 3.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

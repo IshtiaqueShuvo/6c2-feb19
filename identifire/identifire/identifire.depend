@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1552728635 source:c:\users\admin\desktop\identifire\identifire\classlab 3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1552728729 source:c:\users\admin\desktop\identifire\identifire\classlab 3a.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
